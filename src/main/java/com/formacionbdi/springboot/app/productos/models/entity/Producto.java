@@ -1,3 +1,4 @@
+/*
 package com.formacionbdi.springboot.app.productos.models.entity;
 
 import javax.persistence.*;
@@ -62,3 +63,4 @@ public class Producto implements Serializable {
         this.createAt = createAt;
     }
 }
+*/
